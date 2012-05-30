@@ -1,4 +1,7 @@
-**Note!** This directory must be named `ufcoe_unit_control` in your mod folder.
+**Note!** This directory must be named `ufcoe_unit_control` in your mod folder, so:
+
+    cd path/to/Elgg/mod
+    git clone git@github.com:mrclay/Elgg-ufcoe_unit_control.git ufcoe_unit_control
 
 ## UFCOE Unit Control
 
